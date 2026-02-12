@@ -20,7 +20,6 @@ import androidx.compose.ui.unit.dp
 import com.comsys.handheld.ui.components.BrutalistMenuButton
 import com.comsys.handheld.ui.theme.BrutalistColors
 import com.comsys.handheld.ui.theme.BrutalistTypography
-import com.comsys.handheld.ui.theme.brutalistBorder
 
 /**
  * UHF Menu Screen with options for Access Control and RFID Scanning
