@@ -55,7 +55,7 @@ fun UHFMenuScreen(
                 .padding(paddingValues)
                 .padding(16.dp),
             horizontalAlignment = Alignment.CenterHorizontally,
-            verticalArrangement = Arrangement.spacedBy(16.dp, Alignment.CenterVertically)
+            verticalArrangement = Arrangement.spacedBy(16.dp)
         ) {
             // Access Control Button
             BrutalistMenuButton(
